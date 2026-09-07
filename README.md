@@ -19,4 +19,6 @@ with break times and lunch periods
 ---
 Pure HTML simplicity - No CSS, No JavaScript, Just HTML!
 
+
+[View Timetable Preview](https://pixeltopower.github.io/HTML-Projects/)
   
